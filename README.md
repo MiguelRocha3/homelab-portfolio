@@ -6,6 +6,8 @@ I'm an IT enthusiast based in Portugal, currently developing my knowledge of cyb
 
 My practical experience comes from building and maintaining my own PC and Linux home-server environment. I enjoy troubleshooting technical problems, configuring software and understanding how systems work.
 
+I also enjoy making the most of the hardware and resources available to me, focusing on performance, efficiency and cost-effective solutions before investing in new equipment.
+
 I'm building this portfolio to document my projects, demonstrate my technical skills and continue learning through practical experience.
 
 ## Technical Skills
